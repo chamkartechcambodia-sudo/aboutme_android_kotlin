@@ -122,22 +122,6 @@ app/src/main/
 | 05 | `Step.05-Exercise-Implement-data-binding` | Replace findViewById with DataBinding |
 | 05 | `Step.05-Solution-Implement-data-binding` | ✅ Solution |
 
-### How to work through the exercises
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/chamkartechcambodia-sudo/aboutme_android_kotlin.git
-
-# 2. Checkout an exercise branch
-git checkout Step.01-Exercise-Create-layout-file
-
-# 3. Open in Android Studio and find the TODOs
-#    View → Tool Windows → TODO
-
-# 4. Compare your work with the solution
-git diff Step.01-Exercise-Create-layout-file Step.01-Solution-Create-layout-file
-```
-
 ---
 
 ## Course Info
